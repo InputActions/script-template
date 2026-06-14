@@ -1,0 +1,9 @@
+{
+  "name": "inputactions-script-template",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "inputactions": "github:InputActions/scripting-types",
+    "typescript": "^6.0.3"
+  }
+}
